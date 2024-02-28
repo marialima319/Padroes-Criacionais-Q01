@@ -1,5 +1,3 @@
-# Padroes-Criacionais-Q01
-
 class Veiculo:
     def __init__(self, modelo, motor, cor):
         self.modelo = modelo
